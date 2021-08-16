@@ -59,6 +59,7 @@ blogcounter.de
 bluemetrix.com
 bmmetrix.com
 branica.com
+braze.com
 brightedge.com
 bubblestat.com
 c3metrics.com
@@ -126,6 +127,7 @@ demandbase.com
 designbloxlive.com
 destinationurl.com
 developers.google.com
+dialacrum.iad-03.braze.com
 directsend01.com
 dl-rms.com
 dlqm.net

@@ -15,6 +15,7 @@ xp.apple.com
 # Disney
 #
 *.cws.conviva.com
+dialacrum.iad-03.braze.com
 sanalytics.disneyplus.com
 
 # DuckDuckGo
