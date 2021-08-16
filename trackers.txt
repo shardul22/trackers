@@ -82,7 +82,6 @@ cmail20.com
 cmcore.com
 cnode.io
 cnzz.com
-code.highcharts.com
 collserve.com
 commsvc.geo.de
 compete.com
@@ -163,14 +162,12 @@ getsitecontrol.com
 gfk.com
 gfkdaphne.com
 glanceguide.com
-gmail.com
 go-mpulse.net
 godaddy.com
 gomez.com
 google-analytics.com
 googleadapis.l.google.com
 googleadservices.com
-googlemail.com
 googlesyndication.com
 googletagmanager.com
 googletagservices.com
@@ -192,7 +189,6 @@ i.mail.ru
 ibm.com
 in.hotjar.com
 inboundwriter.com
-inbox.google.com
 infinito.email
 infinitummail.com
 infonline.de
@@ -224,7 +220,6 @@ lynchpin.com
 lypn.com
 lyris.com
 lytiks.com
-mail.google.com
 mandrill.com
 mandrillapp.com
 marinsm.com
