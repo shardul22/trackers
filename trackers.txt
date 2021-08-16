@@ -1,5 +1,6 @@
 # Manually Spotted Trackers and Other Nuisances
-# https://github.com/herrbischoff/trackers
+#
+# Source: https://github.com/herrbischoff/trackers
 
 2mdn.net
 3dstats.com

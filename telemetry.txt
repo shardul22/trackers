@@ -1,5 +1,6 @@
 # Most aggressive telemetry domains spotted
-# https://github.com/herrbischoff/trackers
+#
+# Source: https://github.com/herrbischoff/trackers
 
 # Apple
 #

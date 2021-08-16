@@ -1,6 +1,7 @@
-# Manually Spotted Abusive, Crappy, Scummy, Trashy
-# and Otherwise Questionable Domain Names
-# https://github.com/herrbischoff/trackers
+# Manually Spotted Abusive, Crappy, Scummy, Trashy and Otherwise
+# Questionable Domain Names
+#
+# Source: https://github.com/herrbischoff/trackers
 
 0-0.net
 007celeb.com
