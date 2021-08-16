@@ -1,0 +1,6 @@
+# Sites that mainly contains content that is junk, misleading, polluting search
+# results or extremely low information density
+#
+# Source: https://github.com/herrbischoff/trackers
+
+tunefab.com
