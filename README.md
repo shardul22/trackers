@@ -39,7 +39,8 @@ This covers sites with mainly junk content, which are manipulative or are
 polluting search results and generally have very low information density. 
 Often, the only reason they exist is for search engine marketing to shove ads 
 in your face, providing nothing of substance. When I encounter such a site, it 
-gets added here.
+gets added here. It is highly opinionated and I will not accept removal 
+requests for anything it contains.
 
 ## Women Empowerment in Zanzibar
 
