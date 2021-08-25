@@ -4,6 +4,7 @@
 # Source: https://github.com/herrbischoff/trackers
 
 movavi.com
+socoolapps.com
 tunefab.com
 videoconverter.wondershare.com
 wondershare.com

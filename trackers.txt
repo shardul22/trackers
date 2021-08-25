@@ -101,6 +101,7 @@ convertkit.com
 convertro.com
 conviva.com
 cookiebot.com
+cookieinformation.com
 cookielaw.org
 coremetrics.com
 cosearch.opodo.de
@@ -285,6 +286,7 @@ piwik.org
 plan-dating1.com
 plus.google.com
 plusone.google.com
+policy.app.cookieinformation.com
 polldaddy.com
 postrank.com
 pronunciator.com
