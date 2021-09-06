@@ -35,6 +35,7 @@ analytics.yahoo.com
 anormal-media.de
 anormal-tracker.de
 api.drift.com
+api.engage.bidsystem.com
 api.reactandshare.com
 api.revenuecat.com
 api.smoot.apple.com
