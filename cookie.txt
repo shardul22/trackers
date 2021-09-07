@@ -4,9 +4,14 @@
 
 app.cookieinformation.com
 cdn.cookielaw.org
+cdn.privacy-mgmt.com
+consensu.org
 consent.cookiebot.com
 consentcdn.cookiebot.com
 cookiebot.com
 cookieinformation.com
 cookielaw.org
+mgr.consensu.org
 policy.app.cookieinformation.com
+privacy-mgmt.com
+quantcast.mgr.consensu.org

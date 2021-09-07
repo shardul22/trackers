@@ -3,8 +3,14 @@
 #
 # Source: https://github.com/herrbischoff/trackers
 
+cdntwrk.com
+content.cdntwrk.com
+flipbot.uberflip.com
 movavi.com
+news.google.com
+pivotalcontent.s3.amazonaws.com
 socoolapps.com
 tunefab.com
+uberflip.com
 videoconverter.wondershare.com
 wondershare.com
