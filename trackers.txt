@@ -68,7 +68,6 @@ c3tag.com
 cc-dt.com
 cdn.b0e8.com
 cdn.conversant.mgr.consensu.org
-cdn.cookielaw.org
 cedexis-radar.net
 certifica.com
 cetrk.com
@@ -94,16 +93,11 @@ comscore.com
 connect.facebook.net
 connexity.com
 connexity.net
-consent.cookiebot.com
-consentcdn.cookiebot.com
 conversantmedia.com
 convert.com
 convertkit.com
 convertro.com
 conviva.com
-cookiebot.com
-cookieinformation.com
-cookielaw.org
 coremetrics.com
 cosearch.opodo.de
 counter.24log.com
@@ -288,7 +282,6 @@ piwik.org
 plan-dating1.com
 plus.google.com
 plusone.google.com
-policy.app.cookieinformation.com
 polldaddy.com
 postrank.com
 pronunciator.com

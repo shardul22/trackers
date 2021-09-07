@@ -42,6 +42,11 @@ is for search engine marketing to shove ads in your face, providing nothing of
 substance. When I encounter such a site, it gets added here. It is highly 
 opinionated and I will not accept removal requests for anything it contains.
 
+### Cookie
+<https://raw.githubusercontent.com/herrbischoff/trackers/master/cookie.txt>
+
+Cookie consent providers and related domains.
+
 ## Women Empowerment in Zanzibar
 
 Send a little karma down the way and support women empowerment in Zanzibar by 

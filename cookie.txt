@@ -1,0 +1,12 @@
+# Cookie consent providers and related domains
+#
+# Source: https://github.com/herrbischoff/cookie.txt
+
+app.cookieinformation.com
+cdn.cookielaw.org
+consent.cookiebot.com
+consentcdn.cookiebot.com
+cookiebot.com
+cookieinformation.com
+cookielaw.org
+policy.app.cookieinformation.com
