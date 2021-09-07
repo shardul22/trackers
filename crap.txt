@@ -6,11 +6,15 @@
 cdntwrk.com
 content.cdntwrk.com
 flipbot.uberflip.com
+getpublica.com
+justwatch.com
 movavi.com
 news.google.com
 pivotalcontent.s3.amazonaws.com
 socoolapps.com
+sync.getpublica.com
 tunefab.com
 uberflip.com
 videoconverter.wondershare.com
+widget.justwatch.com
 wondershare.com

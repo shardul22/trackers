@@ -10,6 +10,7 @@
 a-reporting.nytimes.com
 a.et.nytimes.com
 a.optmnstr.com
+acdn.adnxs.com
 acxiom.com
 acxiomapac.com
 ad-score.com
@@ -70,11 +71,14 @@ branica.com
 braze.com
 brightedge.com
 bubblestat.com
+c-i.as
 c3metrics.com
 c3tag.com
+capture.condenastdigital.com
 carbonads.com
 cc-dt.com
 cdn.b0e8.com
+cdn.c-i.as
 cdn.carbonads.com
 cdn.conversant.mgr.consensu.org
 cdn.mediavoice.com
@@ -235,6 +239,7 @@ ivwbox.de
 js.driftt.com
 js.hubspotfeedback.com
 js.usemessages.com
+judge.la.welt.de
 keymetric.net
 kissinsights.com
 kissmetrics.com
@@ -266,6 +271,7 @@ mediavoice.com
 meetrics.de
 meetrics.net
 message.sp-prod.net
+met.vgwort.de
 metrics.icloud.com
 mixpanel.com
 mm7.net
@@ -371,6 +377,7 @@ sourcepoint.mgr.consensu.org
 sp.ebaumsworld.com
 spylog.com
 src.kitcode.net
+ssl-welt.met.vgwort.de
 statcounter.com
 static.addtoany.com
 static.ads-twitter.com
@@ -409,6 +416,7 @@ usercentrics.eu
 valuedopinions.co.uk
 vars.hotjar.com
 vertster.com
+vgwort.de
 viafoura.net
 videotracker.washingtonpost.com
 visistat.com
