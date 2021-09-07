@@ -68,6 +68,7 @@ c3tag.com
 cc-dt.com
 cdn.b0e8.com
 cdn.conversant.mgr.consensu.org
+cdn.optimizely.com
 cedexis-radar.net
 certifica.com
 cetrk.com
