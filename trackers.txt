@@ -115,6 +115,7 @@ crashlytics.com
 crazyegg.com
 crowdscience.com
 crwdcntrl.net
+cse.google.com
 customer.api.drift.com
 customer.io
 customeriomail.com
